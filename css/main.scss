@@ -15,10 +15,10 @@ $spacing-unit:     30px;
 $black-color:      #1e1e1e;
 $primary-color:    #2e85d8;
 $white-color:      #fff; // real original
+$alt2-color:       #645CE8;
 
-$grey-color:       lighten($black-color, 40%);
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: lighten($black-color, 40%);
+$grey-color-dark:  lighten($black-color, 10%);
 
 $text-color:       $white-color;
 $background-color: $black-color;
